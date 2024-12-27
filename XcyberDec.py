@@ -6,6 +6,13 @@
 
 import pyperclip
 import time
+import os
+
+
+os.system('clear')
+os.system('figlet "                  XcyberCaeHack"')
+
+
 LETTERS="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 message=input("Message>>>")
